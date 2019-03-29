@@ -1,8 +1,8 @@
-
 # Ingredients
 -avocado 
--apple
+-lemon
 -salt
 # Instructions
- 
+-peel avocado
+
 
