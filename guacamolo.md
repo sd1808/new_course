@@ -1,7 +1,7 @@
 
 # Ingredients
 -avocado 
--lime
+-apple
 -salt
 # Instructions
  
